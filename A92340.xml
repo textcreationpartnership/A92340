@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A more exact and particular relation of the taking of Shrevvsbury, then hath hitherto been published. With the manner and performance thereof by Lieutenant Collonel William Reinking commander in chief in that designe. Published by authority.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92340</idno><idno type="EEBO-CITATION">99860853</idno>
+  <idno type="VID">112979</idno>
+  <idno type="EEBO-PROQUEST">2240884001</idno>
+  
+            <idno type="STC">Wing R768</idno>
+            <idno type="STC">Thomason E282_15</idno>
+            <idno type="STC">ESTC R200050</idno>
+            <idno type="PROQUEST">99860853</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860853e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112979)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E282[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A more exact and particular relation of the taking of Shrevvsbury, then hath hitherto been published. With the manner and performance thereof by Lieutenant Collonel William Reinking commander in chief in that designe. Published by authority.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F.N.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of an order appointing Reinking to the command, and his narrative.</note>
+                  <note>Annotation on Thomason copy: "May 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Reinking, William, --  Lieutenant Colonel.</term>
+               <term type="geographic_name">Shrewsbury (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112979:1"/>
+            <p>A MORE EXACT AND PARTICVLAR RELATION of the taking of SHREVVSBURY, then hath hitherto been published.</p>
+            <p>With the manner and performance thereof by Lieutenant Collonel <hi>WILLIAM REINKING</hi> Commander in chief in that Designe.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Published by Authority.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>F. N.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112979:2"/>
+            <pb n="1" facs="tcp:112979:2"/>
+            <head>A true Relation how <hi>Shrewsbury</hi> was taken the 21. of <hi>Febr.</hi> 1644. by Lieutenant Collonel <hi>WILLIAM REINKING,</hi> Commander in chief in that Designe, as by a Copie of the Order first repeated, appeareth.</head>
+            <div type="license">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Febr.</hi> 21.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg>T is this day Ordered, That Lieutenant Collo<g ref="char:EOLhyphen"/>nel <hi>Reinking</hi> do command the partie upon this present Designe, and that he do inform all the Souldiers both of Horse and Foot, that in case the Designe be effected, that 2000. l. shall be given unto the Staffordshire and Cheshire Horse and Foot under the command of Collonel <hi>Bowyer;</hi> and that a like pro<g ref="char:EOLhyphen"/>portion shall be allowed unto the Shropshire Forces under the Command of the Committee of this County. And that the said Lieutenant Collonel may assure all those who shall expresse their valour more particularly then others in at<g ref="char:EOLhyphen"/>tempting this Designe, that they shall have extraordinarie sat is faction, as he shall think fit. And the said Lieutenant Collonel is to give notice, that if any Souldier after his en<g ref="char:EOLhyphen"/>try into the Town of Salop, shall plunder any thing, That such Souldier shall not onely loose his present reward, but be proceeded against for triall of his life according to Mar<g ref="char:EOLhyphen"/>shal Law.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Copia vera.</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Charlton.</hi>
+                        </item>
+                        <item>
+                           <hi>Leigh. Owen.</hi>
+                        </item>
+                        <item>
+                           <hi>And. Lloyd.</hi>
+                        </item>
+                        <item>
+                           <hi>Reb. Clive.</hi>
+                        </item>
+                        <item>
+                           <hi>Sam. More.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Hunt.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="text_proper">
+               <pb n="2" facs="tcp:112979:3"/>
+               <p>THat divers moneths before this Designe was first at<g ref="char:EOLhyphen"/>tempted, by the Committee and me, I had many con<g ref="char:EOLhyphen"/>sultations with them, besides private projects in my cham<g ref="char:EOLhyphen"/>ber, where I had got purposely severall tools, at several times secretly convayed thither, yet the discoveries made by one Captain <hi>Williat,</hi> and Mr. <hi>Huso<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Clark, persons lately got forth of <hi>Salop,</hi> did both encourage and hasten us, to make triall of all, of some of severall wayes, how to effect that de<g ref="char:EOLhyphen"/>signe.</p>
+               <p>So that the first Attempt we endeavoured was the 14. of <hi>Febr.</hi> at night, wherein, being, on our march, so crossed, that the day approached, we were forced privately to retreat.</p>
+               <p>A few dayes after, the Committee, for severall reasons sent to Sir <hi>William Brereton</hi> for Forces to assist us in the next attempt of that designe, who, at the time expected sent 300 Horse and about as many Foot, under command of Collo<g ref="char:EOLhyphen"/>nel <hi>Bowyer,</hi> Now the time appointed to march, being the Evening of the 20. of <hi>Febr.</hi> that morning I received the said Order whereby to undertake the Designe accordingly.</p>
+               <p>And thereupon, with Col. <hi>Hunt,</hi> Col. <hi>Lloyd,</hi> Cap. <hi>Rob. Clize,</hi> Cap. <hi>Sam. More,</hi> Mr. <hi>Charlton,</hi> and Mr. <hi>Owen</hi> (as Com<g ref="char:EOLhyphen"/>mirtees, accompanying me) I drew forth the <hi>Wem</hi> Foot, and with them marched to <hi>Ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ual</hi> Heath three miles from <hi>Wem</hi> the direct way to <hi>Salup,</hi> where, according to appointment, did meet us Coll. <hi>Royer</hi> with Cheshire and Staffordshire Forces, about 250 of our Committees own Troops, with some Foot from <hi>Mourton:</hi> all our Shropshire Foot were about 300.</p>
+               <p>Being thus met together, I declared my Order to Collo. <hi>Bowyer,</hi> and sounded him, whether he would accordingly come under my command. His answer was instant, to this effect; That to advance the publick good, he would put him<g ref="char:EOLhyphen"/>self under any command I would put upon him. Upon
+<pb n="3" facs="tcp:112979:3"/>which I presently gave him the Command in chief over all the Horse, as well those of Shropshire, as the rest.</p>
+               <p>Then, the severall branches of my Order, to wit, my power, the promise of rewards, and prohibiting of plunder, were by me, in presence of some of the Committee, made known to divers the most eminent Officers, to the end they should im<g ref="char:EOLhyphen"/>part the same to the Company.</p>
+               <p>That done, to prepare and put the party in a posture, to march, I gave orders, delivered the Field token, distributed Ammunition, drew out thirty Firelocks which I put under command of Cap. <hi>Haynes,</hi> for a Forlorn Hope: the Shrop<g ref="char:EOLhyphen"/>shire Foot had the Vanguard under Major <hi>Fenwick;</hi> and so in posture began to march on with two light matches onely in the company, to prevent discovery either by Scouts or from the Castle, whence the long Heath, in our march was easily discoverable.</p>
+               <p>By which means, being all approached over the Heath to the end of the Lane, leading thence into, and about half a mile from, the Suburbs, I then put under the Command of the Lord <hi>Colvill</hi> sixty Foot, as well to march before and se<g ref="char:EOLhyphen"/>cure the horse into those Suburbs at the Castle Ward, and thereto give a false Alarum either upon notice or discovery, as also, in case, we should once enter and let them and the Horse in, then those Foot to take the double gate with the Schoolhouse and Steeple, oppositely facing, and partly commanding the Castle with in the Town.</p>
+               <p>And whereas, about that instant, I had notice of a party, gone out of <hi>Salop</hi> at that gate, by night two miles thence to fetch in hay, I therefore ordered eighty foot more, under a Cheshire Commander to stay in the Reare, in the Suburbs behind the Horse, at least to secure them.</p>
+               <p>About this time came in Collonel <hi>Mytton,</hi> with his son in law, Lieutenant Col. <hi>Pope,</hi> and about three or foure their
+<pb n="4" facs="tcp:112979:4"/>servants, unexpected of me, and as one of the Committee, he fell in, and kept himself with them.</p>
+               <p>Having thus ordered and guarded the Horse, towards the Castle gate for the purposes aforesaid; And now wanting a competent number of Firelocks for my Designe and intend<g ref="char:EOLhyphen"/>ed approach behind the Castle, I caused thirty of Shrop<g ref="char:EOLhyphen"/>shire Troops, selected, to dismount, and under command of Lieutenant <hi>Benbow</hi> to march on foot and joyn with Fire<g ref="char:EOLhyphen"/>locks in the Forlorn Hope. And with them about thirtie Pioners upon whose backs, by turns, I then put the Boat, ladders, picks, Crow Axes, and other tools, brought pur<g ref="char:EOLhyphen"/>posely, for them and the Carpenters to use, all or part, as I should see cause according to the events.</p>
+               <p>And then with them, the body of foot following, I march<g ref="char:EOLhyphen"/>ed along Severne side towards the Castle, and almost within Pistoll shot of the Palizads, where we twice put in the Boat, hoping (though against the streame) thereby to passe some Firelocks about or beyond the Palizads. But, besides the op<g ref="char:EOLhyphen"/>position of the streame, too violent, the Boat was discover<g ref="char:EOLhyphen"/>ed by the two Sentinels at the Castle. So that I was forced to cause the Boat (with as little noise as was possible) to be drawn back. And, seeing that project fail, <hi>I</hi> marched spee<g ref="char:EOLhyphen"/>dily (with Cap. <hi>Williat,</hi> Mr. <hi>Huson,</hi> three Carpenters and their Axes) up to the Palizads, the Sentinels upon the out<g ref="char:EOLhyphen"/>works of the Castle, crying who is there? we answered, you shall see presently. So I made the Carpenters begin to cut down one Palizad, which was a quarter of an houre in do<g ref="char:EOLhyphen"/>ing, the mean time the Musketiers lighted their matches: but the Centinels and guards shot, so that an Alarum was given both in the Town and Castle. Then the L. <hi>Colvill</hi> aptly gave a false Alarum at Castle gate.</p>
+               <p>Now, one Pallizade at last cut down, Cap. <hi>Williat,</hi> Mr. <hi>Huson,</hi> and some Firelocks pressed through and ran along
+<pb n="5" facs="tcp:112979:4"/>and up to a lowe place in the stone wall near the Councell house, where, by the use of one of our ladders of about 8. foot long they got over close to them: I followed in the Van of Muskets, having sent order back that the rest should also follow according to former order.</p>
+               <p>So soon as we were got into the street, near the Castle, and yet betwixt that and the Town, we met there the Go<g ref="char:EOLhyphen"/>vernor, with one Cap. <hi>Cressy,</hi> the Governor seeing himselfe engaged, wounded one of my Musketiers with his rapier; for which he was presently knockt down, and had other wounds.</p>
+               <p>I then, resolving to march my self to the main guard, gave command to Major <hi>Fenwick</hi> to open the Castle gate, and let in the rest of the Musketiers wish the Horse. But as I am since informed, that service was the mean time attempted and at last performed by Cap. <hi>Williat,</hi> Mr. <hi>Huson,</hi> Captain <hi>Turton,</hi> and others.</p>
+               <p>In that interim, having discovered the way to the maine Guard, I with some few marched thither, where after a small skirmish, in which it is true, about 10 or 12 of them that marched before me, were beaten back; yet upon my putting up to the Guard, their Captain being shot, another, incountring me at single Rapier; so wounded that he re<g ref="char:EOLhyphen"/>treated, and after him the whole guard; so as, with the few Foot left I presently got their main guard.</p>
+               <p>And at that instant came up thither to us the Committee with our Horse under command of Collonel <hi>Bowyer,</hi> where<g ref="char:EOLhyphen"/>upon Coll. <hi>Lloyd</hi> one of the Committee, perceiving me to be weary at foot, by dismounting a servant of his, made me to mount the same horse: whereon (upon notice of a party of the Enemies gathering in a body not farre thence) I, so mounted, with 12 Musketiers marched up to that partie,
+<pb n="6" facs="tcp:112979:5"/>where that horse was killed under me; yet with those twelve Musketiers I presently subdued that party.</p>
+               <p>Then returning to the Committee, they and I made haste to the gate upon the Stone bridge, where, finding no oppo<g ref="char:EOLhyphen"/>sition, with some of them, I marched thence to the Castle; where I presently agreed with those there, that delivering up the Castle and their Arms, they should have a passe for <hi>Ludlow,</hi> which immediatly took effect.</p>
+               <p>In this interim word was brought me that those of <hi>Frank<g ref="char:EOLhyphen"/>well Sconce</hi> also desired quarter, which was granted, and ef<g ref="char:EOLhyphen"/>fected by delivery up of that Sconce. And then all was there at our mercie.</p>
+               <p>But all this while both Horse and Foot for most part con<g ref="char:EOLhyphen"/>temning both order and command, fell to plunder all before them. So that observing such generall disorder not appeaz<g ref="char:EOLhyphen"/>able by Committee or me, though endeavoured to the ha<g ref="char:EOLhyphen"/>zard of severall of our persons, I caused my Lieutenant and some of my Souldiers to secure both the persons and per<g ref="char:EOLhyphen"/>sonall estates of both the Sir <hi>John Wilds,</hi> for divers dayes, till their persons otherwise secured, their said estates were then delivered up to the Committee and Officers to the States use.</p>
+               <p>This Relation, though tedious, imparts the sub<g ref="char:EOLhyphen"/>stance of the passage.</p>
+               <p>And the substance hereof is as true as tedious.</p>
+               <closer>
+                  <signed>
+                     <hi>William Reinking</hi> Lieutenant Collonel.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
